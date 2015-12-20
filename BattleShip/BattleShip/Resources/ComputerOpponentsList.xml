@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ComputerOpponents>
+    <ComputerOpponent name="Sylvester Stallone" avatar="player_1" difficulty="NORMAL"/>
+    <ComputerOpponent name="Jason Statham" avatar="player_2" difficulty="HARD"/>
+    <ComputerOpponent name="Arnold Schwarzenegger" avatar="player_3" difficulty="NORMAL"/>
+    <ComputerOpponent name="Jean-Claude Van Damme" avatar="player_4" difficulty="NORMAL"/>
+    <ComputerOpponent name="Dolph Lundgren" avatar="player_5" difficulty="EASY"/>
+    <ComputerOpponent name="Sullivan Stapleton" avatar="player_6" difficulty="HARD"/>
+    <ComputerOpponent name="Antonio Banderas" avatar="player_7" difficulty="EASY"/>
+</ComputerOpponents>

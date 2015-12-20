@@ -1,0 +1,16 @@
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameService\bin\Debug\GameService.dll.config
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameService\bin\Debug\GameService.dll
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameService\bin\Debug\GameService.pdb
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameService\obj\Debug\GameService.dll
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameService\obj\Debug\GameService.pdb
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameService\bin\Debug\Ninject.dll
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameService\bin\Debug\Ninject.Extensions.Wcf.dll
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameService\bin\Debug\Ninject.Web.Common.dll
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameService\bin\Debug\Ninject.xml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameService\bin\Debug\Ninject.Extensions.Wcf.xml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameService\bin\Debug\Ninject.Web.Common.xml
+E:\Programming\BattleShip\GameService\GameService\bin\Debug\GameService.dll.config
+E:\Programming\BattleShip\GameService\GameService\bin\Debug\GameService.dll
+E:\Programming\BattleShip\GameService\GameService\bin\Debug\GameService.pdb
+E:\Programming\BattleShip\GameService\GameService\obj\Debug\GameService.dll
+E:\Programming\BattleShip\GameService\GameService\obj\Debug\GameService.pdb

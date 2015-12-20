@@ -1,0 +1,31 @@
+﻿<Page x:Class="BattleShip.View.Preferences.GameStats"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="Game Statistics"
+      Background="#072A4A">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Column="0" Content="Назад" Margin="10" Click="BackButton_OnClick" FontSize="16" />
+            <Label Grid.Column="1" Content="Game Statistics" Style="{StaticResource FontAlignmentStyle}" HorizontalContentAlignment="Center" />
+        </Grid>
+
+        <DataGrid Grid.Row="1" ItemsSource="{Binding Path=FinishedGames, Mode=OneWay}" 
+                  AutoGenerateColumns="True" IsReadOnly="True"
+                  CanUserReorderColumns="False" CanUserResizeColumns="False" CanUserSortColumns="False"
+                  MinColumnWidth="50" FontSize="16" />
+    </Grid>
+</Page>

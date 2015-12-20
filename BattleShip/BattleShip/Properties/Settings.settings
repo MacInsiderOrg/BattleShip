@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BattleShip.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PlayerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Andriy</Value>
+    </Setting>
+    <Setting Name="BackgroundMusic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AttacksSounds" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CurrentDesign" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Standart</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

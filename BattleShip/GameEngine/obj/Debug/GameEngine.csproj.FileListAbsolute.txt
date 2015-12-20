@@ -1,0 +1,13 @@
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\GameEngine\bin\Debug\GameEngine.dll
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\GameEngine\bin\Debug\GameEngine.pdb
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\GameEngine\bin\Debug\WriteableBitmapEx.Wpf.dll
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\GameEngine\bin\Debug\WriteableBitmapEx.Wpf.pdb
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\GameEngine\bin\Debug\WriteableBitmapEx.Wpf.xml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\GameEngine\obj\Debug\GameEngine.dll
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\GameEngine\obj\Debug\GameEngine.pdb
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\GameEngine\obj\Debug\GameEngine.csprojResolveAssemblyReference.cache
+E:\Programming\BattleShip\BattleShip\GameEngine\bin\Debug\GameEngine.dll
+E:\Programming\BattleShip\BattleShip\GameEngine\bin\Debug\GameEngine.pdb
+E:\Programming\BattleShip\BattleShip\GameEngine\obj\Debug\GameEngine.dll
+E:\Programming\BattleShip\BattleShip\GameEngine\obj\Debug\GameEngine.pdb
+E:\Programming\BattleShip\BattleShip\GameEngine\obj\Debug\GameEngine.csprojResolveAssemblyReference.cache

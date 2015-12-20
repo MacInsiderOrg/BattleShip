@@ -1,0 +1,110 @@
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\View\BattleShipWindow.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\View\Controls\GameStatusControl.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\View\NewGamePage.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\View\OnePlayerGameSetup.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\View\Preferences\AdditionalWindow.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\View\Preferences\GameStats.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\View\StartingWindow.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\App.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\View\BattleShipWindow.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\View\Controls\GameStatusControl.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\View\GameWindow.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\View\NewGamePage.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\View\OnePlayerGameSetup.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\View\Preferences\AdditionalWindow.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\View\Preferences\GameStats.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\View\Preferences\Settings.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\View\StartingWindow.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\App.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\BattleShip_Content.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\BattleShip_MarkupCompile.cache
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\BattleShip_MarkupCompile.lref
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\View\GameWindow.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\View\Preferences\Settings.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\BattleShip.g.resources
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\BattleShip.Properties.Resources.resources
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.GenerateResource.Cache
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\bin\Debug\GameEngine.dll
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\bin\Debug\GameEngine.pdb
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\View\BattleShipWindow.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\View\Controls\GameStatusControl.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\View\NewGamePage.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\View\OnePlayerGameSetup.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\View\Preferences\AdditionalWindow.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\View\Preferences\GameStats.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\View\StartingWindow.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\App.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\View\BattleShipWindow.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\View\Controls\GameStatusControl.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\View\GameWindow.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\View\NewGamePage.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\View\OnePlayerGameSetup.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\View\Preferences\AdditionalWindow.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\View\Preferences\GameStats.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\View\Preferences\Settings.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\View\StartingWindow.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\App.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\BattleShip_Content.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\BattleShip_MarkupCompile.cache
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\BattleShip_MarkupCompile.lref
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\View\GameWindow.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\View\Preferences\Settings.baml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\BattleShip.g.resources
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\BattleShip.Properties.Resources.resources
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.GenerateResource.Cache
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\bin\Debug\AutoMapper.dll
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\BattleShip\BattleShip\bin\Debug\AutoMapper.xml
+E:\Programming\BattleShip\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+E:\Programming\BattleShip\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+E:\Programming\BattleShip\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+E:\Programming\BattleShip\BattleShip\BattleShip\bin\Debug\AutoMapper.dll
+E:\Programming\BattleShip\BattleShip\BattleShip\bin\Debug\GameEngine.dll
+E:\Programming\BattleShip\BattleShip\BattleShip\bin\Debug\Ninject.dll
+E:\Programming\BattleShip\BattleShip\BattleShip\bin\Debug\GameEngine.pdb
+E:\Programming\BattleShip\BattleShip\BattleShip\bin\Debug\AutoMapper.xml
+E:\Programming\BattleShip\BattleShip\BattleShip\bin\Debug\Ninject.xml
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\BattleShipWindow.baml
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\Controls\GameStatusControl.baml
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\NewGamePage.baml
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\OnePlayerGameSetup.baml
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\Preferences\AdditionalWindow.baml
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\Preferences\GameStats.baml
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\StartingWindow.baml
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\App.baml
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\BattleShipWindow.g.cs
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\Controls\GameStatusControl.g.cs
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\GameWindow.g.cs
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\NewGamePage.g.cs
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\OnePlayerGameSetup.g.cs
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\Preferences\AdditionalWindow.g.cs
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\Preferences\GameStats.g.cs
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\Preferences\Settings.g.cs
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\StartingWindow.g.cs
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\App.g.cs
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip_Content.g.cs
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip_MarkupCompile.cache
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip_MarkupCompile.lref
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\GameWindow.baml
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\Preferences\Settings.baml
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.g.resources
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.Properties.Resources.resources
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.GenerateResource.Cache
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\TwoPlayersGameSetup.baml
+E:\Programming\BattleShip\BattleShip\BattleShip\obj\Debug\View\TwoPlayersGameSetup.g.cs

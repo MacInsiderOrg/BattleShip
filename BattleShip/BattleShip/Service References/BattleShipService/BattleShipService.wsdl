@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="BattleShipService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsp:Policy wsu:Id="NetTcpBinding_IGameStatisticsService_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <msb:BinaryEncoding xmlns:msb="http://schemas.microsoft.com/ws/06/2004/mspolicy/netbinary1" />
+        <sp:TransportBinding xmlns:sp="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy">
+          <wsp:Policy>
+            <sp:TransportToken>
+              <wsp:Policy>
+                <msf:WindowsTransportSecurity xmlns:msf="http://schemas.microsoft.com/ws/2006/05/framing/policy">
+                  <msf:ProtectionLevel>EncryptAndSign</msf:ProtectionLevel>
+                </msf:WindowsTransportSecurity>
+              </wsp:Policy>
+            </sp:TransportToken>
+            <sp:AlgorithmSuite>
+              <wsp:Policy>
+                <sp:Basic256 />
+              </wsp:Policy>
+            </sp:AlgorithmSuite>
+            <sp:Layout>
+              <wsp:Policy>
+                <sp:Strict />
+              </wsp:Policy>
+            </sp:Layout>
+          </wsp:Policy>
+        </sp:TransportBinding>
+        <wsaw:UsingAddressing />
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:8733/?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:8733/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8733/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/GameService" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IPlayerService_AddPlayer_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddPlayer" />
+  </wsdl:message>
+  <wsdl:message name="IPlayerService_AddPlayer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddPlayerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPlayerService_GetPlayerByName_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPlayerByName" />
+  </wsdl:message>
+  <wsdl:message name="IPlayerService_GetPlayerByName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPlayerByNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IGameStatisticsService_AddStatistic_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddStatistic" />
+  </wsdl:message>
+  <wsdl:message name="IGameStatisticsService_AddStatistic_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddStatisticResponse" />
+  </wsdl:message>
+  <wsdl:message name="IGameStatisticsService_GetStatisticsByPlayerName_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetStatisticsByPlayerName" />
+  </wsdl:message>
+  <wsdl:message name="IGameStatisticsService_GetStatisticsByPlayerName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetStatisticsByPlayerNameResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IPlayerService">
+    <wsdl:operation name="AddPlayer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlayerService/AddPlayer" message="tns:IPlayerService_AddPlayer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlayerService/AddPlayerResponse" message="tns:IPlayerService_AddPlayer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPlayerByName">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPlayerService/GetPlayerByName" message="tns:IPlayerService_GetPlayerByName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPlayerService/GetPlayerByNameResponse" message="tns:IPlayerService_GetPlayerByName_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="IGameStatisticsService">
+    <wsdl:operation name="AddStatistic">
+      <wsdl:input wsaw:Action="http://tempuri.org/IGameStatisticsService/AddStatistic" message="tns:IGameStatisticsService_AddStatistic_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IGameStatisticsService/AddStatisticResponse" message="tns:IGameStatisticsService_AddStatistic_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetStatisticsByPlayerName">
+      <wsdl:input wsaw:Action="http://tempuri.org/IGameStatisticsService/GetStatisticsByPlayerName" message="tns:IGameStatisticsService_GetStatisticsByPlayerName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IGameStatisticsService/GetStatisticsByPlayerNameResponse" message="tns:IGameStatisticsService_GetStatisticsByPlayerName_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IPlayerService" type="tns:IPlayerService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AddPlayer">
+      <soap:operation soapAction="http://tempuri.org/IPlayerService/AddPlayer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPlayerByName">
+      <soap:operation soapAction="http://tempuri.org/IPlayerService/GetPlayerByName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="NetTcpBinding_IGameStatisticsService" type="tns:IGameStatisticsService">
+    <wsp:PolicyReference URI="#NetTcpBinding_IGameStatisticsService_policy" />
+    <soap12:binding transport="http://schemas.microsoft.com/soap/tcp" />
+    <wsdl:operation name="AddStatistic">
+      <soap12:operation soapAction="http://tempuri.org/IGameStatisticsService/AddStatistic" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetStatisticsByPlayerName">
+      <soap12:operation soapAction="http://tempuri.org/IGameStatisticsService/GetStatisticsByPlayerName" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="BattleShipService">
+    <wsdl:port name="BasicHttpBinding_IPlayerService" binding="tns:BasicHttpBinding_IPlayerService">
+      <soap:address location="http://localhost:8733/BattleShipService" />
+    </wsdl:port>
+    <wsdl:port name="NetTcpBinding_IGameStatisticsService" binding="tns:NetTcpBinding_IGameStatisticsService">
+      <soap12:address location="net.tcp://localhost:45617/BattleShipService" />
+      <wsa10:EndpointReference>
+        <wsa10:Address>net.tcp://localhost:45617/BattleShipService</wsa10:Address>
+        <Identity xmlns="http://schemas.xmlsoap.org/ws/2006/02/addressingidentity">
+          <Dns>localhost</Dns>
+        </Identity>
+      </wsa10:EndpointReference>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,29 @@
+﻿<Page x:Class="BattleShip.View.NewGamePage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Battle Ship - New Game">
+    <DockPanel>
+        <DockPanel.Background>
+            <ImageBrush ImageSource="../Resources/images/setupBackground.png" Stretch="Fill" />
+        </DockPanel.Background>
+
+        <DockPanel DockPanel.Dock="Top">
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Left" DockPanel.Dock="Top" Height="200" Width="250" Margin="10 40 0 0">
+                <StackPanel.Resources>
+                    <Style TargetType="Button">
+                        <Setter Property="Margin" Value="10 10 10 0" />
+                        <Setter Property="Padding" Value="10" />
+                    </Style>
+                </StackPanel.Resources>
+
+                <Label Content="Select count of players:" FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" Foreground="#FFE6E0E0" />
+                <Button Content="1 Player" Click="OnePlayerButton_OnClick" />
+                <Button Content="2 Players" Click="TwoPlayerButton_OnClick" />
+                <Button Content="Back" Click="BackButton_OnClick" />
+            </StackPanel>
+        </DockPanel>
+    </DockPanel>
+</Page>

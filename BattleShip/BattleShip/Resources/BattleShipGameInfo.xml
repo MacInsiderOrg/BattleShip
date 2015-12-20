@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BattleShipGameInfo>
+    <StartingShips>
+        <Ship name="ShipOfTheLine" displayName="ShipOfTheLine" numSections="4" shipImage="ships/ship_4_Black"/>
+        <Ship name="Frigate" displayName="Frigate" numSections="4" shipImage="ships/ship_4_White"/>
+        <Ship name="Galleon" displayName="Galleon" numSections="3" shipImage="ships/ship_3_Black"/>
+        <Ship name="Caravel" displayName="Caravel" numSections="3" shipImage="ships/ship_3_White"/>
+        <Ship name="Sloop" displayName="Sloop" numSections="2" shipImage="ships/ship_2"/>
+    </StartingShips>
+</BattleShipGameInfo>

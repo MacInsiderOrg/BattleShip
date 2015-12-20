@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="BattleShip.View.Controls.GameStatusControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="40" d:DesignWidth="600" Background="Transparent">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="185" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="185" />
+        </Grid.ColumnDefinitions>
+
+        <Grid.Resources>
+            <Style TargetType="StackPanel">
+                <Setter Property="VerticalAlignment" Value="Center" />
+                <Setter Property="HorizontalAlignment" Value="Center" />
+                <Setter Property="Orientation" Value="Horizontal"/>
+            </Style>
+
+            <Style TargetType="Label">
+                <Setter Property="Foreground" Value="White" />
+                <Setter Property="FontSize" Value="18" />
+            </Style>
+        </Grid.Resources>
+
+        <StackPanel Grid.Column="0">
+            <Label Content="Sunk Ships: " />
+            <Label Content="{Binding HumanPlayerSunkShips, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type UserControl}}}" />
+        </StackPanel>
+        <StackPanel Grid.Column="1">
+            <Label Content="Current Game Status: " />
+            <Label Content="{Binding CurrentGameStatus, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type UserControl}}}" />
+        </StackPanel>
+        <StackPanel Grid.Column="2">
+            <Label Content="Sunk Ships: " />
+            <Label Content="{Binding ComputerPlayerSunkShips, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type UserControl}}}" />
+        </StackPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,22 @@
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameHost\bin\Debug\GameHost.exe.config
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameHost\bin\Debug\GameHost.exe
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameHost\bin\Debug\GameHost.pdb
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameHost\bin\Debug\GameService.dll
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameHost\bin\Debug\GameService.pdb
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameHost\obj\Debug\GameHost.csprojResolveAssemblyReference.cache
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameHost\obj\Debug\GameHost.exe
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameHost\obj\Debug\GameHost.pdb
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameHost\bin\Debug\Ninject.dll
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameHost\bin\Debug\Ninject.Extensions.Wcf.dll
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameHost\bin\Debug\Ninject.Web.Common.dll
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameHost\bin\Debug\Ninject.xml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameHost\bin\Debug\Ninject.Extensions.Wcf.xml
+E:\Programming\3 курс 1 семестр\MPZ\BattleShip WCF\GameService\GameHost\bin\Debug\Ninject.Web.Common.xml
+E:\Programming\BattleShip\GameService\GameHost\bin\Debug\GameHost.exe.config
+E:\Programming\BattleShip\GameService\GameHost\obj\Debug\GameHost.exe
+E:\Programming\BattleShip\GameService\GameHost\obj\Debug\GameHost.pdb
+E:\Programming\BattleShip\GameService\GameHost\bin\Debug\GameHost.exe
+E:\Programming\BattleShip\GameService\GameHost\bin\Debug\GameHost.pdb
+E:\Programming\BattleShip\GameService\GameHost\bin\Debug\GameService.dll
+E:\Programming\BattleShip\GameService\GameHost\bin\Debug\GameService.pdb
+E:\Programming\BattleShip\GameService\GameHost\obj\Debug\GameHost.csprojResolveAssemblyReference.cache
